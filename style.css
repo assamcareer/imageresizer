@@ -99,7 +99,7 @@ body{
 }
 .content .download-btn{
   width: 100%;
-  color: #808000;
+  color: #000;
   outline: none;
   border: none;
   cursor: pointer;
