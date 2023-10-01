@@ -23,15 +23,15 @@ body{
   background: #ffffff;
 }
 .wrapper{
-  width: 450px;
-  height: 288px;
-  padding: 30px;
+  width: 350px;
+  height: 200px;
+  padding: 10px;
   background: #ffffff;
   border-radius: 9px;
   transition: height 0.2s ease;
 }
 .wrapper.active{
-  height: 537px;
+  height: 500px;
 }
 .wrapper .upload-box{
   height: 225px;
