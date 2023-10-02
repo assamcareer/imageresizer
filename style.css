@@ -34,7 +34,7 @@ body{
   height: 900px;
 }
 .wrapper .upload-box{
-  height: 350px;
+  height: 380px;
   display: flex;
   cursor: pointer;
   align-items: center;
