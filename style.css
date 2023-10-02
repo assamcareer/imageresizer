@@ -41,7 +41,7 @@ body{
   justify-content: center;
   flex-direction: column;
   border-radius: 5px;
-  border: 2px dashed #afafaf;
+  border: 2px solid #000000;
 }
 .wrapper.active .upload-box{
   border: none;
