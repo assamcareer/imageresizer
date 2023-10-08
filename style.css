@@ -22,10 +22,10 @@ body{
   transition: height 0.2s ease;
 }
 .wrapper.active{
-  height: 650px;
+  height: 500px;
 }
 .wrapper .upload-box{
-  height: 400px;
+  height: 350px;
   display: flex;
   cursor: pointer;
   align-items: center;
