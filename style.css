@@ -15,14 +15,14 @@ body{
 }
 .wrapper{
   width: 600px;
-  height: 500px;
+  height: 400px;
   padding: 30px;
   background: #fff;
   border-radius: 9px;
   transition: height 0.2s ease;
 }
 .wrapper.active{
-  height: 500px;
+  height: 400px;
 }
 .wrapper .upload-box{
   height: 250px;
