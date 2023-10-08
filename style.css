@@ -101,8 +101,8 @@ body{
 .content .download-btn{
   width: 100%;
   color: #C70039;
-  outline: none;
-  border: none;
+  outline: 1px;
+  border: 1px;
   cursor: pointer;
   font-size: 1.06rem;
   border-radius: 5px;
