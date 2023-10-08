@@ -23,7 +23,7 @@ body{
   transition: height 0.2s ease;
 }
 .wrapper.active{
-  height: 400px;
+  height: 800px;
 }
 .wrapper .upload-box{
   height: 250px;
