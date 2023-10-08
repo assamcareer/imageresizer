@@ -14,8 +14,8 @@ body{
   background: #927DFC;
 }
 .wrapper{
-  width: 450px;
-  height: 288px;
+  width: 600px;
+  height: 800px;
   padding: 30px;
   background: #fff;
   border-radius: 9px;
@@ -32,7 +32,7 @@ body{
   justify-content: center;
   flex-direction: column;
   border-radius: 5px;
-  border: 2px dashed #afafaf;
+  border: 2px solid #000000;
 }
 .wrapper.active .upload-box{
   border: none;
@@ -78,7 +78,7 @@ body{
   padding: 0 15px;
   font-size: 1.06rem;
   border-radius: 4px;
-  border: 1px solid #aaa;
+  border: 1px solid #000;
 }
 .sizes .column input:focus{
   padding: 0 14px;
